@@ -20,6 +20,8 @@ TaskFlow is a full-stack task management application featuring user authenticati
 
 ## 📂 Project Structure
 
+```
+
 TaskFlow-main/
 │
 ├── backend/ # Express server, routes, controllers, models
@@ -27,6 +29,8 @@ TaskFlow-main/
 ├── package.json
 ├── package-lock.json
 └── README.md
+
+```
 
 ---
 
